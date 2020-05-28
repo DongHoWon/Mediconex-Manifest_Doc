@@ -1,1 +1,1 @@
-# Mediconex-Manifest_Doc
+# 외부 시현용 자료 정리
