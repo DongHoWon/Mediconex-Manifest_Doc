@@ -236,3 +236,18 @@ php artisan key:generate
 php artisan migrate
 
 ```
+
+* * *
+
+## * MS-SQL 설치 
+
+#### 1. 백업된 MS-SQL설치 파일을 실행한다.
+
+   > 1) 설치 : <http://blog.naver.com/PostView.nhn?blogId=matoker&logNo=220005679622&categoryNo=21&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+>
+   > 2) 계정생성 : <https://server-talk.tistory.com/248>
+   > 3) 원격접속 : <https://server-talk.tistory.com/251>
+
+
+
+
