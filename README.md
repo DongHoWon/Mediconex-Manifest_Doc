@@ -18,3 +18,7 @@
 >5) VSCodeUserSetup-x64-1.43.0.exe
 >7) xampp-windows-x64-7.4.3-0-VC15-installer.exe
 
+### 3. SQLEXPRWT_x64_KOR.zip
+>1) SQL SERVER 2012
+
+
