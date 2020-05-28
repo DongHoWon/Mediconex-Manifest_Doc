@@ -21,5 +21,9 @@
 ### 3. SQLEXPRWT_x64_KOR.zip
 >1) SQL SERVER 2012(MS-SQL 받기 위한 파일)
 
+* * *
 ## Cygwin 설치
+
+#### 1. Cywin폴더의 setup-x86_64.exe  프로그램을 수행한다.
+<img src="https://user-images.githubusercontent.com/30614857/83103945-b48eab00-a0f2-11ea-8aa7-c02b579c0cbb.png" width="50%"></img>
 
