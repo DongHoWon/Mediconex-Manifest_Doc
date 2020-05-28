@@ -8,3 +8,13 @@
 >4) setup-x86_64.exe(Cygwin 설치하기 위한 설치파일)
 >5) TIB_rv_8.4.2_win_x86_64_vc8.zip(RVD 프로토콜 사용하기 위한 설치 파일)
 >6) http%3a%2f%2fftp.yz.yamagata-u.ac.jp%2fpub%2fcygwin%2f(Cygwin 백업 로컬파일 <-설치 시 이 디렉토리를 참고 해야 함.)
+
+### 2. tool.zip
+>1) BANDIZIP-SETUP-ONLINE.EXE
+>2) Composer-Setup.exe(PHP용 패키지 관리 프로그램)
+>3) Git-2.25.0-64-bit.exe
+>4) TortoiseGit-2.9.0.0-64bit.msi
+>5) HeidiSQL_10.1.0.5464_Setup.exe(MS-SQL 접속용 프로그램)
+>5) VSCodeUserSetup-x64-1.43.0.exe
+>7) xampp-windows-x64-7.4.3-0-VC15-installer.exe
+
